@@ -1,0 +1,111 @@
+.container{
+    box-shadow: 0px 0px 1px 0px ;
+    border-radius: 3px;
+    margin: 20px 70px 20px 70px;
+    padding: 25px 30px 25px 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.primary{
+    background-color:rgb(190, 220, 241) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgb(197, 231, 245);
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+    
+}
+.para1{
+    color:rgba(14, 36, 148, 0.897) ;
+    padding: 3px 20px;
+}
+.secondary{
+    background-color:rgb(213, 217, 219) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgb(233, 236, 237);
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para2{
+    color:rgba(43, 44, 48, 0.897) ;
+    padding: 3px 20px;
+}
+.success{
+    background-color:rgba(168, 228, 168, 0.443) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgba(199, 239, 199, 0.767);
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para3{
+    color:rgba(2, 58, 2, 0.89) ;
+    padding: 3px 20px;
+}
+.danger{
+    background-color:rgba(255, 212, 218, 0.845) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgb(250, 205, 212);
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para4{
+    color:rgba(75, 3, 27, 0.966) ;
+    padding: 3px 20px;
+}
+.warning{
+    background-color:lightgoldenrodyellow ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px  rgb(244, 244, 209)  ;
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para5{
+    color:rgb(67, 67, 3) ;
+    padding: 3px 20px;
+}
+.info{
+    background-color:rgb(197, 253, 234) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgb(214, 245, 235)  ;
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para6{
+    color:rgba(10, 18, 173, 0.683) ;
+    padding: 3px 20px;
+}
+.light{
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgba(245, 245, 245, 0.758) ;
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para7{
+    color:rgb(118, 107, 107) ;
+    padding: 3px 20px;
+}
+.dark{
+    background-color:rgb(221, 215, 215) ;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 1px rgb(211, 207, 207) ;
+    height: 60px;
+    margin-top: 12px;
+    width: 100%;
+
+}
+.para8{
+    color:rgb(36, 22, 22) ;
+    padding: 3px 20px;
+}
